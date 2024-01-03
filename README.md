@@ -13,11 +13,8 @@
 
 <img align="right" alt="Coding" width="200" height="200" src="https://blog.hayneschen.top/logo.gif?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
-<!-- -   🔭 I’m currently working on **TapShare & A Web App** -->
 -   🌱 I’m currently learning **Vue, Springboot, Next**
-<!-- -   👯 I’m looking to collaborate on **Next, Svelte** -->
 -   🤝 I’m looking for help with **Vue, Node, Springboot, Next**
-<!-- -   💬 Ask me about **React, Next, Node, Spring, Electron** -->
 -   📫 How to reach me **chen.ian0713@gmail.com**
 -   ⚡ Fun fact **😪😪😪**
 -   <p>✨✨✨</p>
@@ -37,7 +34,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align: center;">
 <picture>
 <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/HaynesChennn/HaynesChennn/output/github-contribution-grid-snake-dark.svg" />
@@ -53,7 +49,6 @@ Here are some ideas to get you started:
     srcset="https://readme-stats-delivery-klad.vercel.app/api?username=HaynesChennn&show_icons=true&locale=en&theme=tokyonight" />
 <source media="(prefers-color-scheme: light)"
     srcset="https://readme-stats-delivery-klad.vercel.app/api?username=HaynesChennn&show_icons=true&locale=en&bg_color=00000000" />
-<img alt="github-stats"
+<img align="center" alt="github-stats"
     src="https://readme-stats-delivery-klad.vercel.app/api?username=HaynesChennn&show_icons=true&locale=en&bg_color=00000000" />
 </picture>
-</div>
