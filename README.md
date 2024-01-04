@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <picture>
 
 <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-stats-delivery-klad.vercel.app/api?username=HaynesChennn&show_icons=true&locale=en&theme=tokyonight" />
+    srcset="https://readme-stats-delivery-klad.vercel.app/api?username=HaynesChennn&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
 <source media="(prefers-color-scheme: light)"
     srcset="https://readme-stats-delivery-klad.vercel.app/api?username=HaynesChennn&show_icons=true&locale=en&bg_color=00000000" />
 <img alt="github-stats"
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <picture>
 
 <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HaynesChennn&theme=tokyonight&layout=compact" />
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HaynesChennn&theme=tokyonight&layout=compact&hide_border=true" />
 <source media="(prefers-color-scheme: light)"
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HaynesChennn&layout=compact&bg_color=00000000" />
 <img alt="github-stats" height=193.05 width=300
