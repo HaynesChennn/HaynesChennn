@@ -17,7 +17,7 @@
 -   🤝 I’m looking for help with **Vue, Node, Springboot, Next**
 -   📫 How to reach me **chen.ian0713@gmail.com**
 -   ⚡ Fun fact **😪😪😪**
--   <p>✨✨✨</p>
+-   ✨✨✨
 
 <!--
 **HaynesChennn/HaynesChennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
