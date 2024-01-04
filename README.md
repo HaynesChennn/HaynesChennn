@@ -45,7 +45,16 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/HaynesChennn/HaynesChennn/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<picture>
+<source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HaynesChennn/HaynesChennn/main/profile-3d-contrib/profile-night-rainbow.svg" />
+<source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HaynesChennn/HaynesChennn/main/profile-3d-contrib/profile-gitblock.svg" />
+<img alt="github-3d"
+    src="https://raw.githubusercontent.com/HaynesChennn/HaynesChennn/profile-3d-contrib/profile-gitblock.svg" />
+</picture>
 
+### 🌟 GitHub Stats:
 
 <p align="center">
 <picture>
@@ -54,8 +63,18 @@ Here are some ideas to get you started:
     srcset="https://readme-stats-delivery-klad.vercel.app/api?username=HaynesChennn&show_icons=true&locale=en&theme=tokyonight" />
 <source media="(prefers-color-scheme: light)"
     srcset="https://readme-stats-delivery-klad.vercel.app/api?username=HaynesChennn&show_icons=true&locale=en&bg_color=00000000" />
-<img alt="github-stats" align="center"
+<img alt="github-stats"
     src="https://readme-stats-delivery-klad.vercel.app/api?username=HaynesChennn&show_icons=true&locale=en&bg_color=00000000" />
+</picture>
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HaynesChennn&theme=tokyonight&layout=compact" />
+<source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HaynesChennn&layout=compact&bg_color=00000000" />
+<img alt="github-stats" height=193.05 width=300
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaynesChennn&layout=compact&bg_color=00000000" />
 </picture>
 
 </p>
