@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" width="200" height="200" src="https://blog.hayneschen.top/logo.gif?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 -   🌱 I’m currently learning **Vue, Springboot, Next**
--   🤝 I’m looking for help with **Vue, Node, Springboot, Next**
+-   🤝 I’m looking for help with **C++, Vue, Node, Springboot, Next**
 -   📫 How to reach me **chen.ian0713@gmail.com**
 -   ⚡ Fun fact **😪😪😪**
 -   ✨✨✨
