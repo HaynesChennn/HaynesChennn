@@ -62,9 +62,9 @@ Here are some ideas to get you started:
 <source media="(prefers-color-scheme: dark)"
     srcset="https://readme-stats-delivery-klad.vercel.app/api?username=HaynesChennn&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
 <source media="(prefers-color-scheme: light)"
-    srcset="https://readme-stats-delivery-klad.vercel.app/api?username=HaynesChennn&show_icons=true&locale=en&bg_color=00000000" />
+    srcset="https://readme-stats-delivery-klad.vercel.app/api?username=HaynesChennn&show_icons=true&locale=en&bg_color=00000000&hide_border=true" />
 <img alt="github-stats"
-    src="https://readme-stats-delivery-klad.vercel.app/api?username=HaynesChennn&show_icons=true&locale=en&bg_color=00000000" />
+    src="https://readme-stats-delivery-klad.vercel.app/api?username=HaynesChennn&show_icons=true&locale=en&bg_color=00000000&hide_border=true" />
 </picture>
 
 <picture>
@@ -72,9 +72,9 @@ Here are some ideas to get you started:
 <source media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HaynesChennn&theme=tokyonight&layout=compact&hide_border=true" />
 <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HaynesChennn&layout=compact&bg_color=00000000" />
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HaynesChennn&layout=compact&bg_color=00000000&hide_border=true" />
 <img alt="github-stats" height=193.05 width=300
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaynesChennn&layout=compact&bg_color=00000000" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaynesChennn&layout=compact&bg_color=00000000&hide_border=true" />
 </picture>
 
 </p>
