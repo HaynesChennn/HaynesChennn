@@ -15,8 +15,9 @@
 
 -   🌱 I’m currently learning **Vue, Springboot, Next**
 -   🤝 I’m looking for help with **C++, Vue, Node, Springboot, Next**
--   📫 How to reach me **chen.ian0713@outlook.com**
--   📄 Peek into my 🫣[blog](https://blog.hayneschen.top/)
+-   📫 How to reach me **honeee@duck.com**
+-   🍱 Check my digital garden → [Bento](https://bento.me/haynes)  
+-   📄 Peek into my [Blog](https://blog.hayneschen.top) 🫣
 -   ⚡ Fun fact **😪😪😪**
 -   ✨✨✨
 
